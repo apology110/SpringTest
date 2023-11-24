@@ -1,0 +1,5 @@
+F:\Lesson\Sprint.NET\Spring_Web_3\Domain\obj\Debug\ResolveAssemblyReference.cache
+F:\Lesson\Sprint.NET\Spring_Web_3\Domain\bin\Debug\Domain.dll
+F:\Lesson\Sprint.NET\Spring_Web_3\Domain\bin\Debug\Domain.pdb
+F:\Lesson\Sprint.NET\Spring_Web_3\Domain\obj\Debug\Domain.dll
+F:\Lesson\Sprint.NET\Spring_Web_3\Domain\obj\Debug\Domain.pdb

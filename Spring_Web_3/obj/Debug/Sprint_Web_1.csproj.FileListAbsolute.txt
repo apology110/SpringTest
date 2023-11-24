@@ -1,0 +1,12 @@
+F:\Lesson\Sprint.NET\Sprint_Web_1\Sprint_Web_1\bin\Sprint_Web_1.dll
+F:\Lesson\Sprint.NET\Sprint_Web_1\Sprint_Web_1\bin\Sprint_Web_1.pdb
+F:\Lesson\Sprint.NET\Sprint_Web_1\Sprint_Web_1\bin\Spring.Core.dll
+F:\Lesson\Sprint.NET\Sprint_Web_1\Sprint_Web_1\bin\Common.Logging.dll
+F:\Lesson\Sprint.NET\Sprint_Web_1\Sprint_Web_1\bin\Spring.Core.pdb
+F:\Lesson\Sprint.NET\Sprint_Web_1\Sprint_Web_1\bin\Spring.Core.xml
+F:\Lesson\Sprint.NET\Sprint_Web_1\Sprint_Web_1\obj\Debug\ResolveAssemblyReference.cache
+F:\Lesson\Sprint.NET\Sprint_Web_1\Sprint_Web_1\obj\Debug\Sprint_Web_1.dll
+F:\Lesson\Sprint.NET\Sprint_Web_1\Sprint_Web_1\obj\Debug\Sprint_Web_1.pdb
+F:\Lesson\Sprint.NET\Sprint_Web_1\Sprint_Web_1\bin\Spring.Web.dll
+F:\Lesson\Sprint.NET\Sprint_Web_1\Sprint_Web_1\bin\Spring.Web.pdb
+F:\Lesson\Sprint.NET\Sprint_Web_1\Sprint_Web_1\bin\Spring.Web.xml
